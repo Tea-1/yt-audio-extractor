@@ -1,5 +1,5 @@
 # yt-audio-extractor
-Takes either a url or search and downloads an mp3 or m4a audio file
+Takes either a yt url or search and downloads a video or audio file
 
 # Installation Instructions
 YOU MUST HAVE FFMPEG INSTALLED FOR THIS TO RUN
