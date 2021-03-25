@@ -4,7 +4,7 @@ import urllib.request
 import re
 
 search = input("Search: ")
-audio = str(input("Audio type (m4a or mp3): "))
+audio = str(input("Audio type (m4a, mp3, mp4, webm): "))
 bitrate = str(input("Bitrate (default = 192): "))
 
 if audio == '':
